@@ -11,7 +11,7 @@ import 'package:vesh_merchant/splash_screen/splash_screen.dart';
 void main() {
   runApp(const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Material(child: Profile()),),);
+      home: Material(child: MyApp()),),);
 }
 
 class MyApp extends StatelessWidget {
